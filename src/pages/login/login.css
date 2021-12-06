@@ -1,0 +1,56 @@
+.login{
+    height: height calc(100vh - 80px);
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    justify-content:center;
+    background: linear-gradient
+    (rgba(255,255,255,0.5),
+    (255,255,255,0.5),
+    url());
+    background-size:cover;
+}
+
+.loginTitle{
+    font-size: 20px;
+    font-family: Fuzzy Bubbles;
+}
+
+.loginForm{
+    margin-top: 20px;
+    display:flex;
+    flex-direction: column;
+}
+
+.loginForm > label{
+    margin: 10px 0;
+    font-family: Fuzzy Bubbles;
+}
+
+.loginInput{
+    padding:10px;
+    background-color: white;
+    font-family: Fuzzy Bubbles;
+}
+
+.loginButton{
+    margin-top:20px;
+    cursor: pointer;
+    background-color: lightcoral;
+    color:white;
+    border-radius:10px;
+    padding: 10px;
+    font-family: Fuzzy Bubbles;
+}
+
+.LoginRegisterButton{
+    position: absolute;
+    top: 100px;
+    right: 20px;
+    background-color: teal;
+    cursor: pointer;
+    padding: 10px;
+    color: white;
+    border-radius: 10px;
+    font-family: Fuzzy Bubbles;
+}

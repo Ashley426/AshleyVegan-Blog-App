@@ -1,0 +1,56 @@
+.register{
+    height: height calc(100vh - 80px);
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    justify-content:center;
+    background: linear-gradient
+    (rgba(255,255,255,0.5),
+    (255,255,255,0.5),
+    url());
+    background-size:cover;
+}
+
+.registerTitle{
+    font-size: 20px;
+    font-family: Fuzzy Bubbles;
+}
+
+.registerForm{
+    margin-top: 20px;
+    display:flex;
+    flex-direction: column;
+}
+
+.registerForm > label{
+    margin: 10px 0;
+    font-family: Fuzzy Bubbles;
+}
+
+.registerInput{
+    padding:10px;
+    background-color: white;
+    font-family: Fuzzy Bubbles;
+}
+
+.registerLoginButton{
+    margin-top:20px;
+    cursor: pointer;
+    background-color: lightcoral;
+    color:white;
+    border-radius:10px;
+    padding: 10px;
+    font-family: Fuzzy Bubbles;
+}
+
+.registerRegisterButton{
+    position: absolute;
+    top: 100px;
+    right: 20px;
+    background-color: teal;
+    cursor: pointer;
+    padding: 10px;
+    color: white;
+    border-radius: 10px;
+    font-family: Fuzzy Bubbles;
+}

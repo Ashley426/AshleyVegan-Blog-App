@@ -1,0 +1,43 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Comforter&family=Dancing+Script&family=Fuzzy+Bubbles&family=Gwendolyn&family=Indie+Flower&family=Roboto:wght@400;700&family=Shadows+Into+Light&display=swap');
+
+
+
+
+.header{
+    margin-top: 60px;
+}
+
+.headerTitle{
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   font-family: sans-serif;
+   color: #444; 
+}
+
+.headerTitlesSm{
+    position: absolute;
+    top: 20%;
+    font-size: 40px;
+    font-family: Indie Flower;
+}
+
+.headerTitlesLg {
+    position: absolute;
+    top: 28%;
+    font-size: 80px;
+    font-family: Comforter;
+}
+
+#caption{
+    top: 20%;
+    font-size: 15px;
+    font-family: Indie Flower;
+}
+.headerImg{
+    width: 100%;
+    height: 450px;
+    margin-top: 80px;
+    object-fit: cover;
+}
