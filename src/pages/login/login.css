@@ -11,8 +11,8 @@
     background-size:cover;
 }
 
-.loginTitle{
-    font-size: 20px;
+.LoginTitle{
+    font-size: 40px;
     font-family: Fuzzy Bubbles;
 }
 
@@ -34,7 +34,7 @@
 }
 
 .loginButton{
-    margin-top:20px;
+    margin-top:10px;
     cursor: pointer;
     background-color: lightcoral;
     color:white;
@@ -45,7 +45,7 @@
 
 .LoginRegisterButton{
     position: absolute;
-    top: 100px;
+    top: 200px;
     right: 20px;
     background-color: teal;
     cursor: pointer;

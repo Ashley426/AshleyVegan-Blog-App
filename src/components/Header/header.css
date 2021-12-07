@@ -18,22 +18,23 @@
 
 .headerTitlesSm{
     position: absolute;
-    top: 20%;
+    top: 25%;
     font-size: 40px;
     font-family: Indie Flower;
 }
 
 .headerTitlesLg {
     position: absolute;
-    top: 28%;
+    top: 32%;
     font-size: 80px;
     font-family: Comforter;
 }
 
 #caption{
     top: 20%;
-    font-size: 15px;
+    font-size: 40px;
     font-family: Indie Flower;
+    color: rgba(102,205,170);
 }
 .headerImg{
     width: 100%;

@@ -8,8 +8,8 @@ export default function Post(props){
             />
             <div className="postInfo">
                 <div className="postCats">
-                    <span className="postCat">Fun Facts</span>
-                    <span className="postCat">Vegan Experiences</span>
+                    <span className="postCat">Do you Like?</span>
+                    <span className="postCat">Nutritonal Facts</span>
                 </div>
                 <span className="postTitle">
                     {props.postTitles}

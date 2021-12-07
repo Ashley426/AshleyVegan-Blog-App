@@ -8,7 +8,7 @@ export default function Header(){
                 <span className="headerTitlesSm">Ashley Vegan</span>
                 <span className="headerTitlesLg">Blog</span>
             </div>
-            <p id="caption">Fun Foods</p>
+            <p id="caption">Nice Treats</p>
             <img className="headerImg" src="https://i2.wp.com/threeolivesbranch.com/wp-content/uploads/2018/01/IMG_7841-600x800.jpg" alt="" 
 
             />

@@ -15,7 +15,10 @@ export default function Sidebar(){
                 <img src="" alt="" 
                 
                 />
-                <p>Lorem, ipsum dolor.</p>
+                <p>Ashley Vegan is a place where you can find information on vegan recipe dishes and delicious vegan snacks!
+                    Also share your vegan experiences with us as you learn about the journey of others. It can be tough finding
+                    what to eat when making the decision to become vegan or vegetarian. Lets learn together!
+                </p>
             </div>
             <div className="sidebarItem">
                 <span className="sidebarTitle">CATEGORIES</span>

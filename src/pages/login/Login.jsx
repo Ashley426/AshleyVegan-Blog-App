@@ -16,7 +16,7 @@ export default function Login(){
         return(
             <div className="login">
                 <span className="LoginTitle">Login</span>
-                    <form className="registerForm">
+                    <form className="loginForm">
                         <label>Email</label>
                         <input type="text" className="loginInput" placeholder="Enter Email"/>
                         

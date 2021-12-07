@@ -10,7 +10,7 @@ export default function SinglePost(props){
                 
                 />
                 <h1 className="singlepostImg">
-                    vegan CHICKPEA SALAD SANDWICH!
+                        Vegan Chickpea salad saandwhich!
                     {props.singlepostImg}
                     <div className="singlePostEdit">
                     <i className="singlePostIcon fa-solid fa-pen-to-square"></i>
@@ -22,6 +22,9 @@ export default function SinglePost(props){
                     <span className="singlePostDate"> 2 hours ago</span>
                 </div>
                 <p className="singlePostDesc">{props.singlepostDesc}
+                    This vegan CHICKPEA SALAD IS THE BEST SANDWICH! Think of it like a tuna or
+                    egg salad but vegan and not boring. This Sandwhich is too good to be healthy I first thought!
+                    This is now my favorite sandwich to make. This vegan CHICKPEA sandwhich has become my got to snack
                     Can chickpeas, rinsed and washed
                     Vegan mayo of choice
                     Dijon mustard
@@ -35,4 +38,7 @@ export default function SinglePost(props){
             <Sidebar/>
         </div>
     )
-}
+    }
+
+            
+            
